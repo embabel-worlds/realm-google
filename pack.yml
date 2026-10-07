@@ -3,6 +3,7 @@ description: "Google Workspace integration — Sheets v4, Drive v3, and Docs v1,
 version: 0.2.2
 author: Rod Johnson
 url: https://github.com/johnsonr/pack-google
+category: productivity
 tags:
   - integrations
   - google
