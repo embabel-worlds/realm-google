@@ -1,4 +1,4 @@
 node_modules/
-dist/
+# dist/ is tracked: the host runs what the realm ships and never builds it.
 *.tsbuildinfo
 .DS_Store
